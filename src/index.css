@@ -4,8 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: #c1cfc5;
+  color: rgb(250, 69, 241);
   overflow-x: hidden;
 }
 #root {
@@ -14,12 +14,16 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
 }
 @media screen and (max-width: 768px) {
   h1 {
     font-size: 3rem;
   }
+}
+
+h2 {
+  text-align: center;
 }
 
 .unsupported-network {
@@ -93,7 +97,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #ffffff;
 }
 
 .member-page form .card > div {
@@ -107,17 +111,17 @@ h1 {
 }
 
 .card {
-  background-color: #fff;
+  background-color: rgb(250, 69, 241);
   padding: 1rem;
   border-radius: 1rem;
-  color: #000;
+  color: #fff;
   box-shadow: 3.1px 6.2px 6.2px hsl(0deg 0% 0% / 0.4);
 }
 
 button {
   cursor: pointer;
-  background-color: #000;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   border: none;
   font-weight: bold;
   font-family: inherit;
@@ -128,7 +132,7 @@ button {
 }
 
 button:hover {
-  background-color: #121212;
+  background-color: #fff;
 }
 
 button:focus {
