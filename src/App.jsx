@@ -189,7 +189,7 @@ const App = () => {
           This dapp only works on the Rinkeby network, please switch networks
           in your connected wallet.
         </p>
-      </div>
+      </div> 
     );
   }
 
