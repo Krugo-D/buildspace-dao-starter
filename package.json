@@ -1,9 +1,10 @@
 {
+  "homepage": "https://krugo-d.github.io/buildspace-dao-starter/",
   "name": "mydao",
   "version": "0.1.0",
   "private": true,
   "engines": {
-  "node": ">=16.0.0"
+    "node": ">=16.0.0"
   },
   "dependencies": {
     "@3rdweb/hooks": "^1.6.0",
@@ -16,9 +17,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && surge /home/Krugo-D/Code/buildspace-dao-starter/build loldao.surge.sh",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

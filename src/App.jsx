@@ -60,7 +60,7 @@ const App = () => {
         setProposals(proposals);
         console.log("🌈 Proposals:", proposals);
       } catch (error) {
-        console.log("failed to get proposals", error);
+        console.log("failed to get proposals :(", error);
       }
     }
     retrieveProposals()
