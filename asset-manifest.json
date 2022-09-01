@@ -3,8 +3,8 @@
     "static/js/0.93946d10.chunk.js": "/buildspace-dao-starter/static/js/0.93946d10.chunk.js",
     "static/js/0.93946d10.chunk.js.map": "/buildspace-dao-starter/static/js/0.93946d10.chunk.js.map",
     "main.css": "/buildspace-dao-starter/static/css/main.6ecdbe98.chunk.css",
-    "main.js": "/buildspace-dao-starter/static/js/main.114a9e42.chunk.js",
-    "main.js.map": "/buildspace-dao-starter/static/js/main.114a9e42.chunk.js.map",
+    "main.js": "/buildspace-dao-starter/static/js/main.5e0ba4f5.chunk.js",
+    "main.js.map": "/buildspace-dao-starter/static/js/main.5e0ba4f5.chunk.js.map",
     "runtime-main.js": "/buildspace-dao-starter/static/js/runtime-main.a181a321.js",
     "runtime-main.js.map": "/buildspace-dao-starter/static/js/runtime-main.a181a321.js.map",
     "static/js/3.895bb9ba.chunk.js": "/buildspace-dao-starter/static/js/3.895bb9ba.chunk.js",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.a181a321.js",
     "static/js/3.895bb9ba.chunk.js",
     "static/css/main.6ecdbe98.chunk.css",
-    "static/js/main.114a9e42.chunk.js"
+    "static/js/main.5e0ba4f5.chunk.js"
   ]
 }
